@@ -1,0 +1,76 @@
+body{
+    margin-left: 0px;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: darkolivegreen;
+}
+
+#heading{
+    text-align: center;
+    font-family: inherit;
+    margin-top: 40px;
+    color: antiquewhite;
+}
+
+#grid1-1{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+
+#grid1-2{
+    position: absolute;
+    left: 300px;
+    top: 100px;
+}
+
+#grid1-3{
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+
+#grid2-1{
+    position: absolute;
+    left: 100px;
+    top: 300px;
+}
+
+#grid2-2{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+
+#grid2-3{
+    position: absolute;
+    left: 500px;
+    top: 300px;
+}
+
+#grid3-1{
+    position: absolute;
+    left: 100px;
+    top: 500px;
+}
+
+#grid3-2{
+    position: absolute;
+    left: 300px;
+    top: 500px;
+}
+
+#grid3-3{
+    position: absolute;
+    left: 500px;
+    top: 500px;
+}
+
+#puzzle{
+    margin-top: 25px;
+    margin-left: 720px;
+}
+
+
+
